@@ -97,19 +97,7 @@ File:
 - Menyimpan hasil merge dan metadata.
 
 
-## 4. Etika dan Provenance Data
 
-Proyek ini memperhatikan beberapa aspek etika dan provenance data, yaitu:
-
-- Pencantuman sumber data.
-- Pemeriksaan lisensi dan ketentuan penggunaan.
-- Perlindungan data pribadi.
-- Penyimpanan data mentah.
-- Dokumentasi proses pembersihan.
-- Pencatatan URL dan tanggal akses.
-- Pemeriksaan checksum MD5.
-
-**Catatan:** Status lisensi dataset Kaggle masih perlu diverifikasi sebelum penggunaan ulang atau distribusi dataset.
 
 ## 5. Struktur Folder Proyek
 
