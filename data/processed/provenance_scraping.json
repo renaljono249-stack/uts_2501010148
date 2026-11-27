@@ -1,0 +1,117 @@
+{
+  "sumber": "Visiting Jogja",
+  "base_url": "https://visitingjogja.jogjaprov.go.id",
+  "robots_url": "https://visitingjogja.jogjaprov.go.id/robots.txt",
+  "user_agent": "UTS-DAM-Informatika/1.0 (mailto:renaljono249@gmail.com)",
+  "metode": "GET; parsing HTML dengan BeautifulSoup",
+  "waktu_akses_utc": "2026-11-27T01:03:08.084519+00:00",
+  "jumlah_halaman_diminta": 10,
+  "jumlah_halaman_berhasil": 10,
+  "jumlah_record_terekstrak": 170,
+  "nomor_eksekusi_sel_scraping": 16,
+  "folder_html_mentah": "data/raw/visitingjogja_html/",
+  "file_csv": "visitingjogja_yogyakarta.csv",
+  "md5_csv": "8815a3aca0afa064278e035599819878",
+  "detail_halaman": [
+    {
+      "halaman": 1,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/",
+      "status_http": 200,
+      "jumlah_byte": 171480,
+      "md5_html": "8f12dc0d380fa0f161717d5fccb48b72",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_01.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 2,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/2/",
+      "status_http": 200,
+      "jumlah_byte": 173996,
+      "md5_html": "23cbde42bcfa99a4782147b718868aad",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_02.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 3,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/3/",
+      "status_http": 200,
+      "jumlah_byte": 174294,
+      "md5_html": "3c26f5e436d5c33de2cc66bd4314ddec",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_03.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 4,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/4/",
+      "status_http": 200,
+      "jumlah_byte": 174470,
+      "md5_html": "abe67602b0a01e991ea0685057bc959a",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_04.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 5,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/5/",
+      "status_http": 200,
+      "jumlah_byte": 174457,
+      "md5_html": "a8757ac92b994191a99457444893bb8c",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_05.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 6,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/6/",
+      "status_http": 200,
+      "jumlah_byte": 173780,
+      "md5_html": "068e2f2bf70b35a9c2c8b24b427d9d35",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_06.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 7,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/7/",
+      "status_http": 200,
+      "jumlah_byte": 174413,
+      "md5_html": "146444b9a9390d82dd9b2fa5237a26b0",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_07.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 8,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/8/",
+      "status_http": 200,
+      "jumlah_byte": 174075,
+      "md5_html": "383a9fcc676b452221559046eebf742e",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_08.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 9,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/9/",
+      "status_http": 200,
+      "jumlah_byte": 174840,
+      "md5_html": "cc70039691378422ca936ec03152a421",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_09.html",
+      "status": "Berhasil"
+    },
+    {
+      "halaman": 10,
+      "url": "https://visitingjogja.jogjaprov.go.id/wisata-jogja/page/10/",
+      "status_http": 200,
+      "jumlah_byte": 174823,
+      "md5_html": "5cbfc9d1b21cec8579c063202d3a3136",
+      "jumlah_link_judul": 17,
+      "file_html": "halaman_10.html",
+      "status": "Berhasil"
+    }
+  ]
+}

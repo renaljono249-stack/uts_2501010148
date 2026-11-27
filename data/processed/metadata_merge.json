@@ -1,0 +1,20 @@
+{
+  "nama_dataset": "Hasil Penggabungan Data Pariwisata Yogyakarta",
+  "sumber_data": [
+    "Kaggle - https://www.kaggle.com/datasets/saufan/dataset-pariwisata-yogyakarta",
+    "Visiting Jogja (hanya halaman yang diizinkan robots.txt)",
+    "Open-Meteo Archive API (ringkasan satu titik koordinat Kota Yogyakarta)"
+  ],
+  "waktu_pembuatan_utc": "2026-11-27T01:04:40.963981+00:00",
+  "metode": "Left join seluruh destinasi Kaggle; agregasi rating per Place_Id; pencocokan judul scraping satu-ke-satu",
+  "ambang_kemiripan": 85,
+  "jumlah_destinasi_kaggle": 126,
+  "jumlah_pasangan_scraping": 1,
+  "jumlah_destinasi_tanpa_artikel": 125,
+  "jumlah_baris_hasil": 126,
+  "jumlah_kolom_hasil": 25,
+  "nomor_eksekusi_sel_metadata": 22,
+  "file_hasil": "hasil_merge_pariwisata_yogyakarta.csv",
+  "md5": "e709fadeec2b4bcb6ee3e0334f1ea12d",
+  "catatan": "Seluruh destinasi Kaggle dipertahankan. Pencocokan fuzzy bukan bukti identitas; periksa kandidat secara manual."
+}

@@ -1,0 +1,10 @@
+No.,Pemeriksaan,Status,Bukti/Keterangan
+1,Sumber data dicantumkan,Ya,URL Kaggle dicantumkan pada notebook
+2,Lisensi dataset diperiksa,Menunggu verifikasi,Periksa bagian License pada halaman Kaggle; belum ada bukti lisensi pada notebook
+3,Penggunaan data sesuai ketentuan lisensi,Menunggu verifikasi,Konfirmasi ketentuan penggunaan setelah lisensi diverifikasi
+4,Tidak mengambil data yang dilarang sumber,Ya,Hanya menggunakan berkas dataset yang diunduh dari sumber
+5,Data pribadi/quasi-identifier diperhatikan,Ya,"Memeriksa User_Id, Location, dan Age sebagai quasi-identifier"
+6,Privasi pengguna dilindungi,Ya,Tidak mempublikasikan data pengguna per individu
+7,Data mentah dipertahankan,Ya,File sumber tetap berada di data/raw dan tidak ditimpa
+8,Pembersihan dan transformasi didokumentasikan,Ya,Kode pembersihan dan file hasil disimpan di notebook
+9,Hasil analisis disajikan secara bertanggung jawab,Ya,Hasil merge dan keterbatasan pencocokan dilaporkan apa adanya
